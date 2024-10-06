@@ -18,9 +18,9 @@
 ## Installation
 
 ### Prerequisites
-1.Python 3.x
-2.pip (Python package installer)
-3.SQLite (Comes bundled with Python)
+-  Python 3.x
+-  pip (Python package installer)
+-  SQLite (Comes bundled with Python)
 
 ### Clone the repository:
 -  git clone https://github.com/srknampalli/pushups-logger.git
