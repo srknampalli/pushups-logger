@@ -1,6 +1,6 @@
 ## pushups-logger
 
-# The Pushups Logger is a simple web application built to help users log their pushups with additional comments. This project implements basic user authentication, CRUD operations (Create, Read, Update, Delete), flash messages, and pagination to enhance the user experience. The front-end is built using HTML, while the back-end is powered by Python's Flask framework with SQLite as the database.
+## The Pushups Logger is a simple web application built to help users log their pushups with additional comments. This project implements basic user authentication, CRUD operations (Create, Read, Update, Delete), flash messages, and pagination to enhance the user experience. The front-end is built using HTML, while the back-end is powered by Python's Flask framework with SQLite as the database.
 
 # Features
 - User Authentication: Secure user sign-up and login functionality. - CRUD Operations: Users can create, view, update, and delete their pushup entries.
