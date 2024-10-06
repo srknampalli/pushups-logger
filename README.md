@@ -23,15 +23,15 @@
 3.SQLite (Comes bundled with Python)
 
 ### Clone the repository:
-* git clone https://github.com/srknampalli/pushups-logger.git
-cd pushups-logger
+-  git clone https://github.com/srknampalli/pushups-logger.git
+-  cd pushups-logger
 ### Create and activate a virtual environment:
-python -m venv pushenv
-psuhvenv\Scripts\activate
+-  python -m venv pushenv
+-  pushhvenv\Scripts\activate
 
 ### Set up the database
-  python run db_create.py
+-  python run db_create.py
 ### Run the application:
-flask run
-The application will be available at http://127.0.0.1:5000/.
+-  flask run
+-  The application will be available at http://127.0.0.1:5000/.
 
